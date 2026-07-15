@@ -1,39 +1,24 @@
 {
-    "schemaVersion":  1,
-    "product":  "SuperWatchDog",
-    "channel":  "stable",
-    "version":  "0.1.0",
-    "platform":  "x64",
-    "publishedAtUtc":  "2026-07-01T17:00:30Z",
-    "release":  {
-                    "repo":  "simbiwu/SuperWatchDog-InstallerAssets",
-                    "tag":  "installer-v0.1.0",
-                    "url":  "https://github.com/simbiwu/SuperWatchDog-InstallerAssets/releases/tag/installer-v0.1.0"
-                },
-    "setup":  {
-                  "fileName":  "SuperWatchDogSetup.exe",
-                  "url":  "https://github.com/simbiwu/SuperWatchDog-InstallerAssets/releases/download/installer-v0.1.0/SuperWatchDogSetup.exe",
-                  "sha256":  "3563bbfce11fc2abdb147e778d1c104fb1db4799add296c2e88830a173520a71",
-                  "sizeBytes":  12915200,
-                  "zipUrl":  "https://github.com/simbiwu/SuperWatchDog-InstallerAssets/releases/download/installer-v0.1.0/SuperWatchDogSetup-0.1.0-x64.zip",
-                  "zipSha256":  "1ea80e284fd815c82d0d26590f66af99efbe3cc01a9b7f9ad9fafe8fc7c9c20e",
-                  "zipSizeBytes":  11110281
-              },
-    "runtime":  {
-                    "windowsDesktopRuntimeMajor":  8,
-                    "url":  "https://aka.ms/dotnet/8.0/windowsdesktop-runtime-win-x64.exe",
-                    "sha256":  "8819b8680a7a7668097bb031a856a5469159c8d6a8cfb2a6b2c0be44e74cb0c1"
-                },
-    "vision":  {
-                   "version":  "0.1.0",
-                   "manifestUrl":  "https://github.com/simbiwu/SuperWatchDog-InstallerAssets/releases/download/installer-v0.1.0/vision-agent-win-x64-0.1.0.manifest.json",
-                   "manifestSignatureUrl":  "https://github.com/simbiwu/SuperWatchDog-InstallerAssets/releases/download/installer-v0.1.0/vision-agent-win-x64-0.1.0.manifest.sig",
-                   "packageUrl":  "https://github.com/simbiwu/SuperWatchDog-InstallerAssets/releases/download/installer-v0.1.0/vision-agent-win-x64-0.1.0.zip",
-                   "packageSha256":  "1ca2bb16f4d36c8d25f9561df0989e2c0026e808d8ecd3785f667bde5e3fcebd",
-                   "packageSizeBytes":  16454248,
-                   "manifestSha256":  "3bd9f6528ad303c126c3964c7bd7da80eda8a02a96c93408f110f9a579f94afe",
-                   "manifestSignatureSha256":  "5178f24f214dc14c6c320efa9a48ee754fc9c7ec529cc189dd1e66aaaeb2213e",
-                   "requireManifestSignature":  true,
-                   "requireAuthenticodeSignature":  false
-               }
+    "schemaVersion": 1,
+    "product": "SuperWatchDog",
+    "channel": "stable",
+    "version": "1.0.0",
+    "platform": "x64",
+    "publishedAtUtc": "2026-07-15T20:57:31Z",
+    "release": {
+        "repo": "simbiwu/SuperWatchDog-InstallerAssets",
+        "tag": "installer-v1.0.0",
+        "url": "https://github.com/simbiwu/SuperWatchDog-InstallerAssets/releases/tag/installer-v1.0.0"
+    },
+    "setup": {
+        "fileName": "SuperWatchDogSetup.exe",
+        "url": "https://github.com/simbiwu/SuperWatchDog-InstallerAssets/releases/download/installer-v1.0.0/SuperWatchDogSetup.exe",
+        "sha256": "d4102f0b220fd4a37b798519335d5c102d1dd1bb794d33cbc11bf791b9702348",
+        "sizeBytes": 48840192
+    },
+    "runtime": {
+        "windowsDesktopRuntimeMajor": 8,
+        "url": "https://aka.ms/dotnet/8.0/windowsdesktop-runtime-win-x64.exe",
+        "sha256": "c0ffa16efeb7ef3ac8100a6a9d7089d9c2904ee89f1815557a79a91be584f775"
+    }
 }
