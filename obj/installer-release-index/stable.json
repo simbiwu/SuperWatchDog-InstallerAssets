@@ -2,38 +2,23 @@
     "schemaVersion":  1,
     "product":  "SuperWatchDog",
     "channel":  "stable",
-    "version":  "0.1.0",
+    "version":  "1.0.0",
     "platform":  "x64",
-    "publishedAtUtc":  "2026-07-02T07:19:08Z",
+    "publishedAtUtc":  "2026-07-17T19:05:56Z",
     "release":  {
                     "repo":  "simbiwu/SuperWatchDog-InstallerAssets",
-                    "tag":  "installer-v0.1.0",
-                    "url":  "https://github.com/simbiwu/SuperWatchDog-InstallerAssets/releases/tag/installer-v0.1.0"
+                    "tag":  "installer-v1.0.0",
+                    "url":  "http://8.134.135.195/#download"
                 },
     "setup":  {
                   "fileName":  "SuperWatchDogSetup.exe",
-                  "url":  "https://github.com/simbiwu/SuperWatchDog-InstallerAssets/releases/download/installer-v0.1.0/SuperWatchDogSetup.exe",
-                  "sha256":  "29192dc00e324b3fd963fb70118ebeafaafa9bdc4d4a5df962874f39b937723d",
-                  "sizeBytes":  13092352,
-                  "zipUrl":  "https://github.com/simbiwu/SuperWatchDog-InstallerAssets/releases/download/installer-v0.1.0/SuperWatchDogSetup-0.1.0-x64.zip",
-                  "zipSha256":  "d0b3e644ac889c739a01eb727cb39734b9b18959655f80e6e45b1ad77bf4f313",
-                  "zipSizeBytes":  11185517
+                  "url":  "http://8.134.135.195/downloads/SuperWatchDogSetup.exe",
+                  "sha256":  "9fb2092c37828b3178b95b71e99dfc276268259eb109df213beaac196f44c5e2",
+                  "sizeBytes":  48957440
               },
     "runtime":  {
                     "windowsDesktopRuntimeMajor":  8,
                     "url":  "https://aka.ms/dotnet/8.0/windowsdesktop-runtime-win-x64.exe",
-                    "sha256":  "8819b8680a7a7668097bb031a856a5469159c8d6a8cfb2a6b2c0be44e74cb0c1"
-                },
-    "vision":  {
-                   "version":  "0.1.0",
-                   "manifestUrl":  "https://github.com/simbiwu/SuperWatchDog-InstallerAssets/releases/download/installer-v0.1.0/vision-agent-win-x64-0.1.0.manifest.json",
-                   "manifestSignatureUrl":  "https://github.com/simbiwu/SuperWatchDog-InstallerAssets/releases/download/installer-v0.1.0/vision-agent-win-x64-0.1.0.manifest.sig",
-                   "packageUrl":  "https://github.com/simbiwu/SuperWatchDog-InstallerAssets/releases/download/installer-v0.1.0/vision-agent-win-x64-0.1.0.zip",
-                   "packageSha256":  "33061260ad76c474be8019d77918fa97f7338361b745bc6586f1ff6fd9a5b38e",
-                   "packageSizeBytes":  16460500,
-                   "manifestSha256":  "e22586a43f7df8d3caac3ed1833ab9c31b80fd4ebcbff3f70448fdb112f77603",
-                   "manifestSignatureSha256":  "d32e263d33c82ee1a9e526a33abb2d38d2669a49ea517c3e175699ce0827ed59",
-                   "requireManifestSignature":  true,
-                   "requireAuthenticodeSignature":  false
-               }
+                    "sha256":  "c0ffa16efeb7ef3ac8100a6a9d7089d9c2904ee89f1815557a79a91be584f775"
+                }
 }
