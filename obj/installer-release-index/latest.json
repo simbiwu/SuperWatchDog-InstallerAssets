@@ -4,7 +4,7 @@
     "channel":  "stable",
     "version":  "1.0.0",
     "platform":  "x64",
-    "publishedAtUtc":  "2026-07-19T14:03:46Z",
+    "publishedAtUtc":  "2026-07-19T19:13:02Z",
     "release":  {
                     "repo":  "simbiwu/SuperWatchDog-InstallerAssets",
                     "tag":  "installer-v1.0.0",
@@ -13,8 +13,8 @@
     "setup":  {
                   "fileName":  "SuperWatchDogSetup.exe",
                   "url":  "http://8.134.135.195/downloads/SuperWatchDogSetup.exe",
-                  "sha256":  "8f1c3d49cc79a8b7f92e10e4e8e56fbfd51b38aa69657df3a9567d68a6cd28e6",
-                  "sizeBytes":  48974848
+                  "sha256":  "0eb67f4b1a79ba2ad913562188b696d4861ceb5aee7df8f139f121821707fe54",
+                  "sizeBytes":  52169728
               },
     "runtime":  {
                     "windowsDesktopRuntimeMajor":  8,
