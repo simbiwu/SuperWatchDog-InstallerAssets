@@ -2,23 +2,23 @@
     "schemaVersion":  1,
     "product":  "SuperWatchDog",
     "channel":  "stable",
-    "version":  "1.0.2",
+    "version":  "1.0.3",
     "platform":  "x64",
-    "publishedAtUtc":  "2026-08-10T06:44:06Z",
+    "publishedAtUtc":  "2026-08-15T10:53:55Z",
     "release":  {
                     "repo":  "simbiwu/SuperWatchDog-InstallerAssets",
-                    "tag":  "installer-v1.0.2",
+                    "tag":  "installer-v1.0.3",
                     "url":  "https://superwatchdog.me/#download"
                 },
     "setup":  {
                   "fileName":  "SuperWatchDogSetup.exe",
                   "url":  "https://superwatchdog.me/downloads/SuperWatchDogSetup.exe",
-                  "sha256":  "8f73dc5ac1f1789f3e6726d35d760a01ec6e0959088e314d67d201c1a0046aa8",
-                  "sizeBytes":  62632448
+                  "sha256":  "a8f2a1c1dfd15a4b609033d279a89c0744f444f2ca00fceee34c142502a612e8",
+                  "sizeBytes":  62636544
               },
     "runtime":  {
                     "windowsDesktopRuntimeMajor":  8,
-                    "url":  "https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/8.0.29/windowsdesktop-runtime-8.0.29-win-x64.exe",
-                    "sha256":  "c0ffa16efeb7ef3ac8100a6a9d7089d9c2904ee89f1815557a79a91be584f775"
+                    "url":  "https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/8.0.30/windowsdesktop-runtime-8.0.30-win-x64.exe",
+                    "sha256":  "8bd710afa5de396c9eb2a3b68d00279b7b9aca372a2443e9acd4f48ffdef3f2d"
                 }
 }
